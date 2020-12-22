@@ -1,18 +1,9 @@
 
 # Matplotlib Challenge - The Power of Plots
 
-## Description
-In this repository, data was used from a mice study that campared the different effects of drug regimens on tumor sizes. The data was first cleaned, and a summary statistics table was created. 
-
 ## Background
 
-What good is data without a good plot to tell the story?
-
-So, let's take what you've learned about Python Matplotlib and apply it to a real-world situation and dataset:
-
-While your data companions rushed off to jobs in finance and government, you remained adamant that science was the way for you. Staying true to your mission, you've joined Pymaceuticals Inc., a burgeoning pharmaceutical company based out of San Diego. Pymaceuticals specializes in anti-cancer pharmaceuticals. In its most recent efforts, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
-
-As a senior data analyst at the company, you've been given access to the complete data from their most recent animal study. In this study, 249 mice identified with SCC tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. You have been tasked by the executive team to generate all of the tables and figures needed for the technical report of the study. The executive team also has asked for a top-level summary of the study results.
+In this challenge, I use the matplotlib function to analyze the effectiveness of different drug regimens on tumor growth. The data was gathered from an animal study where mice with tumors were given different drugs to determine what drug would shrink the tumor the most. 
 
 ## Data Source
 * Mouse_metadata.csv
@@ -66,7 +57,4 @@ As a senior data analyst at the company, you've been given access to the complet
 ## Mouse weight vs. Average Tumor Volume for mice on the Capomulin regimen
 
 ![weight](Images/weight.png)
-    
-### Copyright
 
-Trilogy Education Services © 2020. All Rights Reserved.
